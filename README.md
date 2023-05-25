@@ -2,6 +2,8 @@
 
 ## About Me
 
+* I'm a Master Student in Software Engineering from Braga, Portugal, who enjoys researching, creating, and developing new things.
+
 ---
 ## Languages and Tools
 
