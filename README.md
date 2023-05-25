@@ -41,7 +41,6 @@
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal" rowspan="1">1st Grade</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">2nd Semester</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Laboratórios de Informática II</td><td style="border-color:inherit;border-style:solid;border-width:1px;color:#00E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal" colspan="2"><a href="https://github.com/augusto021/University/tree/main/1st%20Grade/2nd%20Semester/Laborat%C3%B3rios%20de%20Inform%C3%A1tica%20II" target="_blank" rel="noopener noreferrer">Recriação do Jogo Matemático "Rastros"</a></td></tr></thead></table>
 </details>
-</details>
 
 <details>
     <summary>2nd Grade</summary>
